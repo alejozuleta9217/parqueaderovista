@@ -27,5 +27,3 @@ export default class MapFile{
   
   }
   
-  module.exports = MapFile
-  
