@@ -165,7 +165,7 @@ const Data = () => {
       >        
         <Column
           dataField="FirstName"
-          caption="Esatdo del módulo"
+          caption="Estado del módulo"
           alignment="center"
           width={200}
         />
